@@ -326,7 +326,7 @@ const artworks = [
   },
   {
     id: "037",
-    title: "NATURE'S ETERNAL GRACE ON CANVAS",
+    title: "ETERNAL GRACE OF NATURE",
     artist: "Velda Calesta Nirmala Saefullah",
     year: "2026",
     medium: "Mixed Media",
