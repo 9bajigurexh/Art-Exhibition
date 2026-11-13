@@ -74,7 +74,7 @@ const artworks = [
   },
   {
     id: "009",
-    title: "OWL NEWSPAPER",
+    title: "OWL IN THE NIGHT",
     artist: "Hamizan Ardi Pratama Nugroho",
     year: "2026",
     medium: "Mixed Media",
